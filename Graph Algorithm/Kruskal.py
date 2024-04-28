@@ -1,5 +1,3 @@
-
-
 # Kruskal Algorithm  in Python
 import DisjointSet as dst
 

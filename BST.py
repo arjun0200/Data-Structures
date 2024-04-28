@@ -16,7 +16,7 @@ def insertNode(rootNode, nodeValue):
         else:
             insertNode(rootNode.leftChild, nodeValue)
     else:
-        if rootNode.rightChild is None:
+        if rootNode.rightChild is None: 
             rootNode.rightChild = BSTNode(nodeValue)
         else:
             insertNode(rootNode.rightChild, nodeValue)

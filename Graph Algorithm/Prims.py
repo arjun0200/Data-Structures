@@ -1,5 +1,3 @@
-
-
 # Prims Algorithm  in Python
 import sys
 class Graph:
